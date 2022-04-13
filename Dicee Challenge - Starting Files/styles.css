@@ -19,7 +19,7 @@ body {
   background-color: #393E46;
 }
 
-h1 {
+.title {
   margin: 30px;
   font-family: 'Marck Script', cursive;
   text-shadow: 5px 0 #232931;
