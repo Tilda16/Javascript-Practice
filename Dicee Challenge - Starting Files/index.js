@@ -1,1 +1,1 @@
-let randomNumber1 = math.floor(math.random(1, 7));
+let randomNumber1 = Math.floor(Math.random()*7);
